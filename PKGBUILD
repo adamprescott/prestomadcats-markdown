@@ -1,3 +1,4 @@
+# Maintainer: Adam Prescott <adam dot prescott at gmail dot com>
 pkgname=prestomadcats-markdown
 pkgver=20140219
 pkgrel=1
