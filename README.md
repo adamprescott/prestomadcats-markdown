@@ -1,7 +1,7 @@
 Usage
 =======
 
-genMD <source mdfile> <target html file>
+genMD [source mdfile] [target html file]
 
 About
 -----
